@@ -71,7 +71,8 @@ streamlit run app.py
 http://localhost:8501
 ```
 
----
+## 🚀 Live Demo
+https://marketing-campaign-analytics.streamlit.app
 
 ## 📊 Input Parameters
 
