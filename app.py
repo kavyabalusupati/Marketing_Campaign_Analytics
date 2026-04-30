@@ -11,7 +11,7 @@ st.set_page_config(page_title="Marketing Analytics", layout="wide")
 st.markdown("<h1 style='text-align:center;'>📊 Marketing Campaign Analytics</h1>", unsafe_allow_html=True)
 
 # -------------------- LOAD DATA --------------------
-data = pd.read_csv("dataset/marketing_campaign.csv")
+data = pd.read_csv("marketing_campaign.csv")
 data = data.dropna()
 
 # Encode categorical data
