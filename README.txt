@@ -1,6 +1,10 @@
 
 # 📊 Marketing Campaign Analytics Dashboard
 
+
+## 🚀 Live Demo  
+👉 [Click Here to Open App](https://marketing-campaign-analytics.streamlit.app)
+
 ---
 
 ## 📌 Project Overview
@@ -130,7 +134,7 @@ Clears all predictions and resets the dashboard.
 
 ## 👨‍💻 Author
 
-**Name:** Your Name
+**Name:** Balusupati Kavya Sri
 **Project:** Marketing Campaign Analytics Dashboard
 
 ---
@@ -143,6 +147,6 @@ Clears all predictions and resets the dashboard.
 
 ## ⭐ Conclusion
 
-This project demonstrates how **Machine Learning + Streamlit** can be used to build an interactive analytics dashboard for real-world business problems.
+This project successfully demonstrates how machine learning and Streamlit can be integrated to build an interactive dashboard for predicting customer responses. It provides real-time insights that help improve marketing strategies and decision-making.
 
 ---
