@@ -3,8 +3,7 @@
 
 
 ## 🚀 Live Demo  
-👉 [Click Here to Open App](https://marketing-campaign-analytics.streamlit.app)
-
+👉 [Click Here to Open App]<https://marketing-campaign-analytics.streamlit.app>
 ---
 
 ## 📌 Project Overview
